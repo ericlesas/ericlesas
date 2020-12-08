@@ -1,14 +1,13 @@
 # Éricles Alencar
 
-QA Analyst | IT student
+QA Engineer | IT student
 
 #### About Me
 
 * :office: Currently working with Test Automation at CI&T with the technologies below:
   1. Java,
-  2. Selenium Webdriver,
-  3. Appium. 
+  2. Appium, 
+  3. Jenkins.
   
-* :computer: Web development enthusiastic, studying:
-  1. PHP,
-  2. Lumen.
+* :computer: Mobile development enthusiastic, studying:
+  1. Swift.
